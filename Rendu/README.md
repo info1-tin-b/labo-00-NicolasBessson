@@ -16,4 +16,3 @@ Je me suis familiarisé un peu avec Markdown, ci dessous quelques exemples de ce
 |---------|----------|----------|
 | 1       | 2        | 3        |
 | 4       | 5        | 6        |
-|---------|----------|----------| 
