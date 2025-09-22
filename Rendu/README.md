@@ -13,7 +13,7 @@ Je me suis familiarisé un peu avec Markdown, ci dessous quelques exemples de ce
 ### Titre 3
 
 |Colone 1 | Colone 2 | Colone 3 |
-|-------------------------------|
+|---------|----------|----------|
 | 1       | 2        | 3        |
 | 4       | 5        | 6        |
-|-------------------------------| 
+|---------|----------|----------| 
